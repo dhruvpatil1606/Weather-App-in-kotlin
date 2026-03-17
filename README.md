@@ -46,4 +46,4 @@ This app follows the **MVVM (Model-View-ViewModel)** architecture to ensure a se
 ## 🔧 Setup & Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/dhruvpatil1606/Weather-App-in-kotlin.git
